@@ -10,7 +10,8 @@
         "main.blocks",
         "main.ts",
         "README.md",
-        "advancedagri-v3.md"
+        "advancedagri-v3.md",
+        "tutorial-info-cache.json"
     ],
     "testFiles": [
         "test.ts"
